@@ -140,8 +140,8 @@ python test.py
 ```
 
 ## Processed dataset and model weights
-| model tyoe |                                trained weights                                 |                                 training data                                  |                                  test data                                   |
-|:----------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-|    mix     | [Download](https://www.psymukb.net:83/Memo_Patho_Download/mix/final_model.pth) | [Download](https://www.psymukb.net:83/Memo_Patho_Download/mix/train_mix.fasta) | [Download](https://www.psymukb.net:83/Memo_Patho_Download/mix/test_ind.pkl)  |
-|    ind     |  [Download](https://www.psymukb.net:83/Memo_Patho_Download/ind/ind_model.pth)  | [Download](https://www.psymukb.net:83/Memo_Patho_Download/ind/train_ind.fasta) | [Download](https://www.psymukb.net:83/Memo_Patho_Download/ind/test_ind.pkl) |
+| model tyoe |                                trained weights                                 |                                  test data                                   |
+|:----------:|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+|    mix     | [Download](https://www.psymukb.net:83/Memo_Patho_Download/mix/final_model.pth) | [Download](https://www.psymukb.net:83/Memo_Patho_Download/mix/test_mix.pkl)  |
+|    ind     |  [Download](https://www.psymukb.net:83/Memo_Patho_Download/ind/ind_model.pth)  | [Download](https://www.psymukb.net:83/Memo_Patho_Download/ind/test_ind.pkl) |
 
